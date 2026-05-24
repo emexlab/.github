@@ -1,4 +1,9 @@
 ## Welcome to emexLabs 👋
+At emexLabs, we build software that gives you full control of your device, designed to work fully offline without relying on cloud services, and running entirely locally.
+
+
+All of our projects are brought to you by our [members](https://github.com/orgs/emexlab/people) ❤️
+
 ## emexOS
 [emexOS](https://github.com/emexlab/emexOS) is a graphical operating system entirely written from scratch in C by emex and [all its contributors](https://github.com/emexlab/emexOS/graphs/contributors). It's designed for developers and enthusiasts, who want to customize their system and want full control over their systems.
 
